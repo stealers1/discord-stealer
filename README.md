@@ -1,13 +1,34 @@
-https://discord.gg/stealers --> Deltastealer
+<center>
+<h1 align="center"><img src="https://i.ibb.co/d5FySDx/gun.gif" width=40/> <u><a href="https://www.deltastealer.xyz">Deltastealer</a></u></h1>
 
-The best stealer/token grabber
-
-features :
-
-discord :
-
--> QRCode logger -> Discord Login Stealer -> Username -> ID -> Token -> Password (even when it changes) -> Email -> Badges -> Nitro -> Credit Card number -> CVC -> Expiration -> Billing -> IP -> Instantly logout -> Disable QR -> Custom embed -> Owned guilds
-
-others features :
-
--> Credit Cards (All browsers) -> Cookies (All browsers) -> Passwords (All browsers) -> History (All browsers) -> Steam Stealer -> Minecraft Stealer -> Wallets Stealer (All wallets) -> VPN Stealer -> Customizable Exe
+<h2><img src="https://i.ibb.co/G2FzKf5/planet.gif" width=25>  Features</h2>
+<ul>
+    <pre align=left>
+    <b> > <u>Discord Stealer</u></b>
+        <b> - Password Stealer ( Even when it changes )</b>
+        <b> - Email Stealer ( Even when it changes )</b>
+        <b> - Credit Card Stealer ( When user Purchase )</b>
+        <b> - Disable QR</b>
+        <b> - Block 2FA Creation</b>
+        <br/>
+    <b> > <u>Injector Features</u></b>
+        <b> - <u>Steam Stealer</u></b>
+        <b> - <u>Wallet Stealer (10)</u><b>
+        <b> - <u>Token Grabber</u></b>
+        <b> - <u>System Information</u></b>
+        <b> - <u>EXE Customizer</u></b><br>
+        <b> > <u>Browser Stealer</u></b>
+            <b> - Passwords Stealer</b>
+            <b> - Cookie Stealer</b>
+            <b> - Credit Cards Stealer</b>
+            <b> - History Stealer</b>
+        <b> > <u>VPN Stealer</u></b>
+            <b> - ProtonVPN </b>
+            <b> - OpenVPN</b>
+        <b> > <u>Minecraft Stealer</u></b>
+            <b> - Profiles</b>
+            <b> - Accounts</b>
+    </pre>
+    </br>
+<ul>
+</center>
